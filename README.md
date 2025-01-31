@@ -1,13 +1,10 @@
-# Artificial Intelligence Generative: Analysis of datas with OpenAI (version Free)
-The goal this laboratorie is demonstrate how use OpenAI to analysis of datas and it was used Studio Code to build structure folder.
+# Microsoft Visual Studio Code: Create Structure of folder
 
-``` OpenAI: ``` https://chatgpt.com/
 
 ### Use tools:
 
-- OpenAi: https://chatgpt.com/
 - Visual Studio Code: https://code.visualstudio.com/
-- Microsoft Excel
+
 
 ### Showing:
 
