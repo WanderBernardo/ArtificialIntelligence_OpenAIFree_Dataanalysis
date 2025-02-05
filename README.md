@@ -25,12 +25,5 @@
 - ``` readme.md ```: here we going to build defintions, step-by-step fo the documents.
 ![image](https://github.com/user-attachments/assets/cbf2ff7b-0816-487a-887e-386ef778b3f8)
 
-4 - So now, let's on the file: "readme.md" and write description this project:
-- Características:
-   * A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
-   * Os produtos são vendidos globalmente
-- Objetivos:
-   * Consolidar todas as bases de terceiros para realizar uma análise
-   * Transformar dados de venda sem informações relevantes para a fabricante
-   * Quais são os produtos mais populares em cada país
-   * Como otimizar o processo de transporte e logística até o momento da venda
+
+# Very important: build logic structure to organization yours project. Structure above is a example.
